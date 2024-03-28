@@ -1,7 +1,7 @@
 # sb-gamble
 Simple Gamble Command for streamer.bot
 
-Command !gamble <amount>
+Command !gamble [amount]
 
 You either win or lose your betted amount.
 
